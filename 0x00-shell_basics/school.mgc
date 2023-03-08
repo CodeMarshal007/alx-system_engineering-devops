@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "0 string SCHOOL School data file" > school.mgc; file -m school.mgc *
+
